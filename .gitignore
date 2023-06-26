@@ -1,1 +1,3 @@
 .env
+db.sql
+__pycache__
